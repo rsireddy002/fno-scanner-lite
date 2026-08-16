@@ -1,0 +1,7 @@
+# Never commit real credentials
+config.txt
+
+# Local scratch/log files not needed in the deployed app
+eod_logs/
+__pycache__/
+*.pyc
